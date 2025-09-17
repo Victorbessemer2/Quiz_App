@@ -13,7 +13,7 @@
 .container hr{
     height: 2px;
     border: none;
-    background: blue;
+    background: green;
 }
 .container h2{
     font-size: 27px;
@@ -34,7 +34,7 @@
     margin: auto;
     width: 250px;
     height: 65px;
-    background: blue;
+    background: green;
     color: white;
     font-weight: 500;
     border-radius: 8px;
